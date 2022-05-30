@@ -1,6 +1,7 @@
-## Flexbox CSS and HTML: The Tea Cozy Project
+## CSS and HTML: Arts and Crafts Store
 
 ### Tech stack
+
 * HTML and CSS
 
 This project was made with HTML and CSS web development stack.
